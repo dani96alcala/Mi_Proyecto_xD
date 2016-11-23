@@ -58,7 +58,12 @@ Markdown te permite poner [enlaces a una página web] (http://github.com/milq/lm
 
 En Markdown tambien se pueden poner imágenes:
 
+**<ins>Illidan Tempestira, El Traidor, Primer Cazador de Demonios</ins>**.
+<br>
+Traicionó a su propio pueblo al crear una segunda fuente del sol bajo el yugo del Demonio Sargeras y así abrir paso a la Legión Ardiente hacia el mundo de Azeroth, por ello, fue encerrado durante mil años. Fue liberado por Tyranide Susurravientos (Sacerdotisa de la Luna) para expulsar a la Legión Ardiente que corrompía los hermosos bosques de Ashenvale en una segunda invasión, aún así fue desterrado de su propia tierra por su hermano Malfurion (Archidruida y pupilo de Cenarius) tras utilizar la calavera de Gul'Dan (un artefacto poderoso y destructivo) y utilizar el propio poder demoníaco en contra de la Legión. Luego, creó una alianza con los recien invocados Nagas y los supervivientes de Lunargenta (los elfos de sangre) junto a Kael'thas, el Rey Sol y Lady Vashj, Reina Naga para huir de Sargeras, derrotar al Rey Lich Arthas y reconquistar el antiguo templo destruído de Terrallende "El Templo Oscuro". Fue finalmente derrotado por los héroes de Azeroth para liberar Terrallende de su yugo
+
 ![Imágen de Illidan Tempestira, El Traidor](http://www.continue-play.com/live/wp-content/uploads/2014/07/World_of_Warcraft_Illidan_Art.jpg 'Imágen de Illidan')
+> "¡NO ESTÁIS PREPARADOS!"
 
 Markdown tambien te permite poner tablas:
 
@@ -67,3 +72,19 @@ Markdown tambien te permite poner tablas:
 | Tistana | ADC | Rango largo |
 | Annie | Mid | _Stun_ |
 | Garen | Top | Curación |
+
+También te permite <i>usar <b>código</b> HTML<i>
+
+Se pueden poner citas:
+
+> En un lugar de la mancha de cuyo nombre...
+
+&bnsp;
+
+> Esto es otra cita xD
+
+Markdown te permite, además, crear listas de chequeo:
+
+- [ ] Patatas.
+- [x] Legumbres.
+- [ ] Alcachofas.
