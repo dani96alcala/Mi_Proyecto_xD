@@ -51,5 +51,12 @@ También es posible crear listas anidadas:
   * ADC
   * Poca movilidad
 3. Sivir
-  * 
-  * 
+  * ADC
+  * Daño en área
+  
+Markdown te permite poner [enlaces a una página web] (http://github.com/milq/lmsgi), incluso solo poniendo la URL: http://google.com.
+
+En Markdown tambien se pueden poner imágenes:
+
+[Imágen de Illidan Tempestira, El Traidor](http://www.continue-play.com/live/wp-content/uploads/2014/07/World_of_Warcraft_Illidan_Art.jpg)
+
