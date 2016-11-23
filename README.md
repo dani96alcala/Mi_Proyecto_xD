@@ -58,5 +58,5 @@ Markdown te permite poner [enlaces a una página web] (http://github.com/milq/lm
 
 En Markdown tambien se pueden poner imágenes:
 
-(http://www.continue-play.com/live/wp-content/uploads/2014/07/World_of_Warcraft_Illidan_Art.jpg)
+http://www.continue-play.com/live/wp-content/uploads/2014/07/World_of_Warcraft_Illidan_Art.jpg
 
