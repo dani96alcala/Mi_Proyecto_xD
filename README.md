@@ -60,3 +60,10 @@ En Markdown tambien se pueden poner imágenes:
 
 ![Imágen de Illidan Tempestira, El Traidor](http://www.continue-play.com/live/wp-content/uploads/2014/07/World_of_Warcraft_Illidan_Art.jpg 'Imágen de Illidan')
 
+Markdown tambien te permite poner tablas:
+
+| Personaje | Posición | Pasiva |
+| --------- | -------- | ------ |
+| Tistana | ADC | Rango largo |
+| Annie | Mid | _Stun_ |
+| Garen | Top | Curación |
